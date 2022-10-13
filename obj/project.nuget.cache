@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sp62au091rA3BUH1Xufc8jZJK7pV7F62COBKNCJKPgAjRIihGCPS7cuZGzrXp2aOqlNY1OVbz0lxf9PKeuMoqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sizwe\\Documents\\FDA\\FDA\\FDA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sizwe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sizwe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
